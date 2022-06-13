@@ -1,6 +1,5 @@
 - Hi, I’m @stephcmccoy
-- I’m interested in data analytics in the government sector.
-- I’m currently learning basic data analytics.
+- I’m interested in data analytics in the health sector
 
 <!---
 stephcmccoy/stephcmccoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
